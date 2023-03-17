@@ -1,0 +1,20 @@
+.rodape{
+    background-color: #6278F7;
+    height: 160px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rodape .redes{
+    height: 24px;
+    gap: 32px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rodape .text{
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+}
